@@ -37,7 +37,7 @@
 
 ### 📫 Contact Me
 - Email: dpmishra04@gmail.com  
-- LinkedIn: [linkedin.com/in/deepakmishra](https://linkedin.com/in/deepakmishra)  
+- LinkedIn: https://www.linkedin.com/in/dpmishra04/  
 
 ---
 
