@@ -31,7 +31,13 @@
 ---
 
 ### 📂 Projects
--  
+-  ChronoMemDB
+    A high-performance in-memory database engine written in C++17/20, featuring:
+    1. Fast key-value storage and retrieval  
+    2. SQL-like query parser supporting basic commands (`INSERT`, `SELECT`)  
+    3. CMake build system for easy compilation  
+    4. Continuous Integration: Build & Test automatically via GitHub Actions on every pull request  
+    **Repository:** [ChronoMemDB](https://github.com/HexaForge-1/ChronoMemDB)
 
 ---
 
