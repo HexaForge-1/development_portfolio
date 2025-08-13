@@ -4,6 +4,7 @@
 🔧 Expert in High-Performance Computing, Memory Management & Multi-threading
 🤖 Building scalable applications leveraging AI frameworks (TensorFlow C++ / PyTorch C++)
 🎮 Experienced in Game Development with Unreal Engine & Real-time Simulation
+🎮 Key domain areas - Firmware, Embedded, Middleware, Image processing, Cyber Security, Networking, Telecom etc.
 🌐 Passionate about optimizing algorithms and writing clean, maintainable code
 📚 Continuous learner | Open-source contributor | Problem solver
 
