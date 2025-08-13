@@ -39,6 +39,18 @@
     3. CMake build system for easy compilation  
     4. Continuous Integration: Build & Test automatically via GitHub Actions on every pull request  
     **Repository:** [ChronoMemDB](https://github.com/HexaForge-1/ChronoMemDB)
+-  FinWorkOptimizer : Enterprise Finance & Workflow Platform
+    A  Well defined integration of Finance, Workday, CRM & Oracle Fusion workflows with payroll, expenses, invoicing, budgeting, forecasting, and secure GL exports           for enterprise growth, featuring:
+    1. REST-based system integrating Finance, Workday, CRM & Oracle Fusion-style operations.  
+    2. Core Modules: Payroll, Expenses, Invoicing, Timesheets, Employee Management. 
+    3. CRM Features: Customer management (add/update, list).
+    4. Workflow Approvals: Timesheet approval endpoint with secure API key authentication.
+    5. Budgeting Tools: Set/update budgets, variance analysis reports.
+    6. Forecasting: Cashflow forecasting with moving average.
+    7. Oracle Fusion GL Export: Generate CSV-ready files for import.
+    8. Security: API key authentication, configurable via environment variables.
+    9. Enterprise Ready: Scalable architecture, modular design, CI/CD with build & test enforcement.  
+    **Repository:** [ChronoMemDB](https://github.com/HexaForge-1/FinWorkOptimizer)
 
 ---
 
