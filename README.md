@@ -39,6 +39,7 @@
     3. CMake build system for easy compilation  
     4. Continuous Integration: Build & Test automatically via GitHub Actions on every pull request  
     **Repository:** [ChronoMemDB](https://github.com/HexaForge-1/ChronoMemDB)
+
 -  FinWorkOptimizer : Enterprise Finance & Workflow Platform
     A  Well defined integration of Finance, Workday, CRM & Oracle Fusion workflows with payroll, expenses, invoicing, budgeting, forecasting, and secure GL exports           for enterprise growth, featuring:
     1. REST-based system integrating Finance, Workday, CRM & Oracle Fusion-style operations.  
@@ -50,7 +51,18 @@
     7. Oracle Fusion GL Export: Generate CSV-ready files for import.
     8. Security: API key authentication, configurable via environment variables.
     9. Enterprise Ready: Scalable architecture, modular design, CI/CD with build & test enforcement.  
-    **Repository:** [ChronoMemDB](https://github.com/HexaForge-1/FinWorkOptimizer)
+    **Repository:** [FinWorkOptimizer](https://github.com/HexaForge-1/FinWorkOptimizer)
+
+-  HighPerf-AI-ML-Inference
+    A high-performance **C++ AI/ML inference engine** built using **ONNX Runtime (CPU by default, GPU opt-in)** with optional **LibTorch** support. This CLI + REST      API tool is cross-platform, powered by **CMake**, and deployable via **Docker** and **GitHub Codespaces**. It auto-fetches models/assets, includes a CUDA
+    runtime check, and enforces CI-based merge gating. Future plans include multi-model and GPU training support.
+  **Highlights:**
+  - Unified CPU/GPU inference — pick runtime flexibly
+  - CLI & REST interfaces for integration versatility
+  - Seamless asset/model fetching and environment validation
+  - Cross-platform builds with CMake and Docker
+  - Maintains high quality through CI gating on PRs
+  **Repository**: [highperf-ai-ml-inference](https://github.com/HexaForge-1/highperf-ai-ml-inference)
 
 ---
 
