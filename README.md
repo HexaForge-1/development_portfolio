@@ -57,11 +57,11 @@
     A high-performance **C++ AI/ML inference engine** built using **ONNX Runtime (CPU by default, GPU opt-in)** with optional **LibTorch** support. This CLI + REST      API tool is cross-platform, powered by **CMake**, and deployable via **Docker** and **GitHub Codespaces**. It auto-fetches models/assets, includes a CUDA
     runtime check, and enforces CI-based merge gating. Future plans include multi-model and GPU training support.
   **Highlights:**
-  - Unified CPU/GPU inference — pick runtime flexibly
-  - CLI & REST interfaces for integration versatility
-  - Seamless asset/model fetching and environment validation
-  - Cross-platform builds with CMake and Docker
-  - Maintains high quality through CI gating on PRs
+    1. Unified CPU/GPU inference — pick runtime flexibly
+    2. CLI & REST interfaces for integration versatility
+    3. Seamless asset/model fetching and environment validation
+    4. Cross-platform builds with CMake and Docker
+    5. Maintains high quality through CI gating on PRs
   **Repository**: [highperf-ai-ml-inference](https://github.com/HexaForge-1/highperf-ai-ml-inference)
 
 ---
