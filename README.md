@@ -61,8 +61,7 @@
     3. Seamless asset/model fetching and environment validation
     4. Cross-platform builds with CMake and Docker
     5. Maintains high quality through CI gating on PRs
-       
-  **Repository:** [highperf-ai-ml-inference](https://github.com/HexaForge-1/highperf-ai-ml-inference)
+    **Repository:** [highperf-ai-ml-inference](https://github.com/HexaForge-1/highperf-ai-ml-inference)
 
 ---
 
