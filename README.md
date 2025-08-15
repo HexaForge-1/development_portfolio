@@ -54,9 +54,8 @@
     **Repository:** [FinWorkOptimizer](https://github.com/HexaForge-1/FinWorkOptimizer)
 
 -  HighPerf-AI-ML-Inference
-    A high-performance **C++ AI/ML inference engine** built using **ONNX Runtime (CPU by default, GPU opt-in)** with optional **LibTorch** support. This CLI + REST      API tool is cross-platform, powered by **CMake**, and deployable via **Docker** and **GitHub Codespaces**. It auto-fetches models/assets, includes a CUDA
-    runtime check, and enforces CI-based merge gating. Future plans include multi-model and GPU training support.
-  **Highlights:**
+   A high-performance C++ AI/ML inference engine built using ONNX Runtime (CPU by default, GPU opt-in) with optional LibTorch support. This CLI + REST API tool is      cross-platform, powered by CMake, and deployable via Docker and GitHub Codespaces. It auto-fetches models/assets, includes a CUDA runtime check, and enforces
+   CI-based merge gating. Future plans include multi-model and GPU training support.
     1. Unified CPU/GPU inference — pick runtime flexibly
     2. CLI & REST interfaces for integration versatility
     3. Seamless asset/model fetching and environment validation
